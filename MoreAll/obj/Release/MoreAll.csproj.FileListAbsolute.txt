@@ -1,0 +1,48 @@
+D:\CongtyGooDeign\NAM2017\Code Chuẩn\VS.E-Commer_ChuanUrl_FCK\MoreAll\bin\Release\MoreAll.dll
+D:\CongtyGooDeign\NAM2017\Code Chuẩn\VS.E-Commer_ChuanUrl_FCK\MoreAll\bin\Release\MoreAll.pdb
+D:\CongtyGooDeign\NAM2017\Code Chuẩn\VS.E-Commer_ChuanUrl_FCK\MoreAll\bin\Release\Entity.dll
+D:\CongtyGooDeign\NAM2017\Code Chuẩn\VS.E-Commer_ChuanUrl_FCK\MoreAll\bin\Release\Framework.dll
+D:\CongtyGooDeign\NAM2017\Code Chuẩn\VS.E-Commer_ChuanUrl_FCK\MoreAll\bin\Release\Services.dll
+D:\CongtyGooDeign\NAM2017\Code Chuẩn\VS.E-Commer_ChuanUrl_FCK\MoreAll\bin\Release\Database.dll
+D:\CongtyGooDeign\NAM2017\Code Chuẩn\VS.E-Commer_ChuanUrl_FCK\MoreAll\bin\Release\Entity.pdb
+D:\CongtyGooDeign\NAM2017\Code Chuẩn\VS.E-Commer_ChuanUrl_FCK\MoreAll\bin\Release\Framework.pdb
+D:\CongtyGooDeign\NAM2017\Code Chuẩn\VS.E-Commer_ChuanUrl_FCK\MoreAll\bin\Release\Services.pdb
+D:\CongtyGooDeign\NAM2017\Code Chuẩn\VS.E-Commer_ChuanUrl_FCK\MoreAll\obj\Release\MoreAll.csprojResolveAssemblyReference.cache
+D:\CongtyGooDeign\NAM2017\Code Chuẩn\VS.E-Commer_ChuanUrl_FCK\MoreAll\obj\Release\MoreAll.dll
+D:\CongtyGooDeign\NAM2017\Code Chuẩn\VS.E-Commer_ChuanUrl_FCK\MoreAll\obj\Release\MoreAll.pdb
+D:\CongtyVMMS\Mau2018____\V17.VMMS.VN\MoreAll\bin\Release\MoreAll.dll
+D:\CongtyVMMS\Mau2018____\V17.VMMS.VN\MoreAll\bin\Release\MoreAll.pdb
+D:\CongtyVMMS\Mau2018____\V17.VMMS.VN\MoreAll\bin\Release\Entity.dll
+D:\CongtyVMMS\Mau2018____\V17.VMMS.VN\MoreAll\bin\Release\Framework.dll
+D:\CongtyVMMS\Mau2018____\V17.VMMS.VN\MoreAll\bin\Release\Services.dll
+D:\CongtyVMMS\Mau2018____\V17.VMMS.VN\MoreAll\bin\Release\Database.dll
+D:\CongtyVMMS\Mau2018____\V17.VMMS.VN\MoreAll\bin\Release\Entity.pdb
+D:\CongtyVMMS\Mau2018____\V17.VMMS.VN\MoreAll\bin\Release\Framework.pdb
+D:\CongtyVMMS\Mau2018____\V17.VMMS.VN\MoreAll\bin\Release\Services.pdb
+D:\CongtyVMMS\Mau2018____\V17.VMMS.VN\MoreAll\obj\Release\MoreAll.csprojResolveAssemblyReference.cache
+D:\CongtyVMMS\Mau2018____\V17.VMMS.VN\MoreAll\obj\Release\MoreAll.dll
+D:\CongtyVMMS\Mau2018____\V17.VMMS.VN\MoreAll\obj\Release\MoreAll.pdb
+F:\AGVietNam\VS.NuocHoa\MoreAll\bin\Release\MoreAll.dll
+F:\AGVietNam\VS.NuocHoa\MoreAll\bin\Release\MoreAll.pdb
+F:\AGVietNam\VS.NuocHoa\MoreAll\bin\Release\Entity.dll
+F:\AGVietNam\VS.NuocHoa\MoreAll\bin\Release\Framework.dll
+F:\AGVietNam\VS.NuocHoa\MoreAll\bin\Release\Services.dll
+F:\AGVietNam\VS.NuocHoa\MoreAll\bin\Release\Database.dll
+F:\AGVietNam\VS.NuocHoa\MoreAll\bin\Release\Entity.pdb
+F:\AGVietNam\VS.NuocHoa\MoreAll\bin\Release\Framework.pdb
+F:\AGVietNam\VS.NuocHoa\MoreAll\bin\Release\Services.pdb
+F:\AGVietNam\VS.NuocHoa\MoreAll\obj\Release\MoreAll.csprojResolveAssemblyReference.cache
+F:\AGVietNam\VS.NuocHoa\MoreAll\obj\Release\MoreAll.dll
+F:\AGVietNam\VS.NuocHoa\MoreAll\obj\Release\MoreAll.pdb
+F:\AGVietNam\VS.NuocHoa_v-paris.net\MoreAll\bin\Release\MoreAll.dll
+F:\AGVietNam\VS.NuocHoa_v-paris.net\MoreAll\bin\Release\MoreAll.pdb
+F:\AGVietNam\VS.NuocHoa_v-paris.net\MoreAll\bin\Release\Entity.dll
+F:\AGVietNam\VS.NuocHoa_v-paris.net\MoreAll\bin\Release\Framework.dll
+F:\AGVietNam\VS.NuocHoa_v-paris.net\MoreAll\bin\Release\Services.dll
+F:\AGVietNam\VS.NuocHoa_v-paris.net\MoreAll\bin\Release\Database.dll
+F:\AGVietNam\VS.NuocHoa_v-paris.net\MoreAll\bin\Release\Entity.pdb
+F:\AGVietNam\VS.NuocHoa_v-paris.net\MoreAll\bin\Release\Framework.pdb
+F:\AGVietNam\VS.NuocHoa_v-paris.net\MoreAll\bin\Release\Services.pdb
+F:\AGVietNam\VS.NuocHoa_v-paris.net\MoreAll\obj\Release\MoreAll.csprojResolveAssemblyReference.cache
+F:\AGVietNam\VS.NuocHoa_v-paris.net\MoreAll\obj\Release\MoreAll.dll
+F:\AGVietNam\VS.NuocHoa_v-paris.net\MoreAll\obj\Release\MoreAll.pdb

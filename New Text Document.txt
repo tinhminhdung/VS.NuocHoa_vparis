@@ -1,0 +1,36 @@
+Hosting cho tên miền www.v-paris.net
+Control panel	https://103.131.74.10:8443 hay https://v-paris.net:8443
+Username	v-paris.net
+Password	xE2rgn9XMB34
+
+
+
+Host name	ftp.v-paris.net hoặc 103.131.74.10
+Username	vpari974
+Password	xE2rgn9XMB34
+
+Hosting for domain www.v-paris.net
+Control panel	https://103.131.74.10:8443 or https://v-paris.net:8443
+Username	v-paris.net
+Password	xE2rgn9XMB34
+
+Host name	ftp.v-paris.net or 103.131.74.10
+Username	vpari974
+Password	xE2rgn9XMB34
+
+nuochoas
+v-paris_net_van
+nuochoa
+xE2rgn9XMB34
+
+KKHG&&^9987
+
+
+v-paris_net_songam
+usersongam
+I#w91oi6
+
+
+newsdemo
+usersgamss
+#3jP2d9s

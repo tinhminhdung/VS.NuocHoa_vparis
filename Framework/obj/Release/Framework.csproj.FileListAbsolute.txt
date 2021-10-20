@@ -1,0 +1,32 @@
+D:\CongtyGooDeign\NAM2017\Code Chuẩn\VS.E-Commer_ChuanUrl_FCK\Framework\bin\Release\Framework.dll
+D:\CongtyGooDeign\NAM2017\Code Chuẩn\VS.E-Commer_ChuanUrl_FCK\Framework\bin\Release\Framework.pdb
+D:\CongtyGooDeign\NAM2017\Code Chuẩn\VS.E-Commer_ChuanUrl_FCK\Framework\bin\Release\Database.dll
+D:\CongtyGooDeign\NAM2017\Code Chuẩn\VS.E-Commer_ChuanUrl_FCK\Framework\bin\Release\Entity.dll
+D:\CongtyGooDeign\NAM2017\Code Chuẩn\VS.E-Commer_ChuanUrl_FCK\Framework\bin\Release\Entity.pdb
+D:\CongtyGooDeign\NAM2017\Code Chuẩn\VS.E-Commer_ChuanUrl_FCK\Framework\obj\Release\Framework.csprojResolveAssemblyReference.cache
+D:\CongtyGooDeign\NAM2017\Code Chuẩn\VS.E-Commer_ChuanUrl_FCK\Framework\obj\Release\Framework.dll
+D:\CongtyGooDeign\NAM2017\Code Chuẩn\VS.E-Commer_ChuanUrl_FCK\Framework\obj\Release\Framework.pdb
+D:\CongtyVMMS\Mau2018____\V17.VMMS.VN\Framework\bin\Release\Framework.dll
+D:\CongtyVMMS\Mau2018____\V17.VMMS.VN\Framework\bin\Release\Framework.pdb
+D:\CongtyVMMS\Mau2018____\V17.VMMS.VN\Framework\bin\Release\Database.dll
+D:\CongtyVMMS\Mau2018____\V17.VMMS.VN\Framework\bin\Release\Entity.dll
+D:\CongtyVMMS\Mau2018____\V17.VMMS.VN\Framework\bin\Release\Entity.pdb
+D:\CongtyVMMS\Mau2018____\V17.VMMS.VN\Framework\obj\Release\Framework.csprojResolveAssemblyReference.cache
+D:\CongtyVMMS\Mau2018____\V17.VMMS.VN\Framework\obj\Release\Framework.dll
+D:\CongtyVMMS\Mau2018____\V17.VMMS.VN\Framework\obj\Release\Framework.pdb
+F:\AGVietNam\VS.NuocHoa\Framework\bin\Release\Framework.dll
+F:\AGVietNam\VS.NuocHoa\Framework\bin\Release\Framework.pdb
+F:\AGVietNam\VS.NuocHoa\Framework\bin\Release\Database.dll
+F:\AGVietNam\VS.NuocHoa\Framework\bin\Release\Entity.dll
+F:\AGVietNam\VS.NuocHoa\Framework\bin\Release\Entity.pdb
+F:\AGVietNam\VS.NuocHoa\Framework\obj\Release\Framework.csprojResolveAssemblyReference.cache
+F:\AGVietNam\VS.NuocHoa\Framework\obj\Release\Framework.dll
+F:\AGVietNam\VS.NuocHoa\Framework\obj\Release\Framework.pdb
+F:\AGVietNam\VS.NuocHoa_v-paris.net\Framework\bin\Release\Framework.dll
+F:\AGVietNam\VS.NuocHoa_v-paris.net\Framework\bin\Release\Framework.pdb
+F:\AGVietNam\VS.NuocHoa_v-paris.net\Framework\bin\Release\Database.dll
+F:\AGVietNam\VS.NuocHoa_v-paris.net\Framework\bin\Release\Entity.dll
+F:\AGVietNam\VS.NuocHoa_v-paris.net\Framework\bin\Release\Entity.pdb
+F:\AGVietNam\VS.NuocHoa_v-paris.net\Framework\obj\Release\Framework.csprojResolveAssemblyReference.cache
+F:\AGVietNam\VS.NuocHoa_v-paris.net\Framework\obj\Release\Framework.dll
+F:\AGVietNam\VS.NuocHoa_v-paris.net\Framework\obj\Release\Framework.pdb

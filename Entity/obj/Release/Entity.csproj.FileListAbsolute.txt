@@ -1,0 +1,20 @@
+D:\CongtyGooDeign\NAM2017\Code Chuẩn\VS.E-Commer_ChuanUrl_FCK\Entity\bin\Release\Entity.dll
+D:\CongtyGooDeign\NAM2017\Code Chuẩn\VS.E-Commer_ChuanUrl_FCK\Entity\bin\Release\Entity.pdb
+D:\CongtyGooDeign\NAM2017\Code Chuẩn\VS.E-Commer_ChuanUrl_FCK\Entity\obj\Release\Entity.csprojResolveAssemblyReference.cache
+D:\CongtyGooDeign\NAM2017\Code Chuẩn\VS.E-Commer_ChuanUrl_FCK\Entity\obj\Release\Entity.dll
+D:\CongtyGooDeign\NAM2017\Code Chuẩn\VS.E-Commer_ChuanUrl_FCK\Entity\obj\Release\Entity.pdb
+D:\CongtyVMMS\Mau2018____\V17.VMMS.VN\Entity\bin\Release\Entity.dll
+D:\CongtyVMMS\Mau2018____\V17.VMMS.VN\Entity\bin\Release\Entity.pdb
+D:\CongtyVMMS\Mau2018____\V17.VMMS.VN\Entity\obj\Release\Entity.csprojResolveAssemblyReference.cache
+D:\CongtyVMMS\Mau2018____\V17.VMMS.VN\Entity\obj\Release\Entity.dll
+D:\CongtyVMMS\Mau2018____\V17.VMMS.VN\Entity\obj\Release\Entity.pdb
+F:\AGVietNam\VS.NuocHoa\Entity\bin\Release\Entity.dll
+F:\AGVietNam\VS.NuocHoa\Entity\bin\Release\Entity.pdb
+F:\AGVietNam\VS.NuocHoa\Entity\obj\Release\Entity.csprojResolveAssemblyReference.cache
+F:\AGVietNam\VS.NuocHoa\Entity\obj\Release\Entity.dll
+F:\AGVietNam\VS.NuocHoa\Entity\obj\Release\Entity.pdb
+F:\AGVietNam\VS.NuocHoa_v-paris.net\Entity\bin\Release\Entity.dll
+F:\AGVietNam\VS.NuocHoa_v-paris.net\Entity\bin\Release\Entity.pdb
+F:\AGVietNam\VS.NuocHoa_v-paris.net\Entity\obj\Release\Entity.csprojResolveAssemblyReference.cache
+F:\AGVietNam\VS.NuocHoa_v-paris.net\Entity\obj\Release\Entity.dll
+F:\AGVietNam\VS.NuocHoa_v-paris.net\Entity\obj\Release\Entity.pdb
